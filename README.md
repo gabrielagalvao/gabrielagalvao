@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Gabi 👋
 
-<!--
-**gabrielagalvao/gabrielagalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 Biologist  
+📊 Data Analyst  
+🎓 MSc in Ethnobiology | PhD Candidate  
+💻 Systems Analysis and Development (ADS)  
+🔐 Learning Cybersecurity @ Mulher Digital  
 
-Here are some ideas to get you started:
+**Skills**  
+`R • Phyton • Power BI • Data Analysis • Statistics`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests**  
+`Cybersecurity • Data Analytics • Biodiversity • Ecology`
